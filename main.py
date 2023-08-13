@@ -16,7 +16,7 @@ class MockCodingInterviewBot:
         self.current_question_index = 0
         self.solution = ""
         
-        self.openai_api_key = "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"  # Replace with your OpenAI API key
+        self.openai_api_key = " your_OpenAI_API_key"  # Replace with your OpenAI API key
     
     def get_next_question(self):
         question = self.questions_data.iloc[self.current_question_index]
