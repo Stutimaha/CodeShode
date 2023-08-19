@@ -28,11 +28,13 @@ Are you ready to embark on a transformative journey with **CodeShode**? 🚀 Let
 
 - **Recruitment Agencies**: Companies seeking a streamlined hiring process and efficient talent identification can rely on CodeShode to evaluate candidates' coding prowess effectively.🎓🏢
 
+<!---
 ## Elevate with Premium! 💎
 
 - **Try It for Free**: Our free version lets you tackle 5 questions, setting the stage for your success.
 
 - **Premium Unleashed**: Upgrade to the premium tier and gain access to curated company questions, detailed feedback, immersive in-person mocks, and more! The path to your dream job just got smoother. 🚀🔥
+--->
 
 ## Seamless Workflow 💡
 
