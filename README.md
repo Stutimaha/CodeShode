@@ -1,5 +1,7 @@
 # CodeShode: Your Path to Acing Technical Interviews! 💡✨
 
+[Check out CodeShode's demonstration!](https://youtu.be/91vsRVDXAaw)
+
 ## Hello there, Tech Enthusiasts and Hiring Heroes! 👋
 
 Are you ready to embark on a transformative journey with **CodeShode**? 🚀 Let's dive into how this innovative Mock Coding Interview Chatbot is poised to revolutionize technical interview preparation for software development and recruitment agencies alike, combining the prowess of OpenAI and Textbase.
@@ -48,6 +50,8 @@ Are you ready to embark on a transformative journey with **CodeShode**? 🚀 Let
 ## Integration of OpenAI and Textbase🌐
 
 CodeShode seamlessly integrates **OpenAI's GPT-3.5 Turbo** for generating engaging and contextually relevant responses, enhancing the user experience and maintaining immersion.
+
+**Codex** is leveraged to meticulously debug user-provided solutions to coding questions. This means that CodeShode not only understands code but also aids users in resolving coding issues effectively.
 
 **Textbase** acts as the communication conduit, managing user messages and relaying them to CodeShode's logic. The combination of these technologies results in dynamic and engaging interactions.
 
